@@ -10,7 +10,7 @@ Python, pandas, NumPy, SciPy, statsmodels, pingouin, Matplotlib, Seaborn, Plotly
 Includes Pearson correlations, robustness heatmaps, OLS, t-tests, ANOVA and interactive regression plots.
 
 ## Repository structure
-- `analysis.ipynb`: original student analysis notebook (personal student ID removed)
+- `analysis.ipynb`: original student analysis notebook 
 - `data/`: input data used by the notebook
 
 ## Run locally
